@@ -50,7 +50,7 @@
     transition :all 1s ease;
 }
 .main{
-    background-image: url("D:/projects and internships/1 stop/project 1/bg.webp");
+    background-image: url('bg.jpg');
     background-position: right;
     background-size:cover;
     background-repeat: no-repeat;
