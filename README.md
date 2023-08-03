@@ -1,5 +1,5 @@
 # Ecommerce-single-page
-Deployment-link:-https://yasaswini25.github.io/Personal-website/
+Deployment-link:- https://yasaswini25.github.io/ecommerce-single-page/
 ### Project:-
 In this project I have tried to make a responsive portfolio website.
 ### Technologies used
